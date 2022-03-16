@@ -8,12 +8,6 @@ Slider: <a href="https://s2000promax.github.io/slider-project/" > Demo </a> || <
 
 ---
 
-#### MY TELEGRAM
-
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/webfulldev)
-
----
-
 ### My SKILLS:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript)
@@ -26,6 +20,12 @@ Slider: <a href="https://s2000promax.github.io/slider-project/" > Demo </a> || <
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![webpack](https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack)
+
+---
+
+#### MY TELEGRAM
+
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/webfulldev)
 
 ---
 
