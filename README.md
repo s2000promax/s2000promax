@@ -6,7 +6,7 @@ Mortal Kombat on JS: <a href="https://s2000promax.github.io/MortalKombat/" > Dem
 
 Slider: <a href="https://s2000promax.github.io/slider-project/" > Demo </a> -> <a href="https://github.com/s2000promax/slider-project" > Source code </a> 
 
-Hackathons: <a href="stanis1u.beget.tech" > Demo </a> -> <a href="https://github.com/s2000promax/hackathons" > Source code </a> 
+Hackathons: <a href="http://stanis1u.beget.tech/" > Demo </a> -> <a href="https://github.com/s2000promax/hackathons" > Source code </a> 
 
 Hangouts app: <a href="https://github.com/s2000promax/hangout" > Source code </a>
 
