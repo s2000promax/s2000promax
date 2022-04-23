@@ -22,12 +22,14 @@ Example of my code (repository will be updated): <a href="https://github.com/s20
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=TypeScript)
 ![react](https://img.shields.io/badge/react-111111?style=for-the-badge&logo=React)
 ![redux](https://img.shields.io/badge/redux-111111?style=for-the-badge&logo=Redux)
-![NodeJs](https://img.shields.io/badge/NodeJs-111111?style=for-the-badge&logo=Node.js)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJs-111111?style=for-the-badge&logo=Node.js)
 ![Mongoose](https://img.shields.io/badge/Mongoose-111111?style=for-the-badge&logo=MongoDB)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-111111?style=for-the-badge&logo=Express)
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![webpack](https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack)
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
