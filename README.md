@@ -14,6 +14,8 @@ Mortal Kombat on JS: <a href="https://github.com/s2000promax/MortalKombat" > Sou
 
 Slider: <a href="https://s2000promax.github.io/slider-project/" > Demo </a> -> <a href="https://github.com/s2000promax/slider-project" > Source code </a> 
 
+Quiz: <a href="https://github.com/s2000promax/react-quiz" > Source code </a>
+
 Social net: <a href="https://github.com/s2000promax/SocialNet" > Source code </a>
 
 Example of my code (repository will be updated): <a href="https://github.com/s2000promax/UI" > Source code </a>
