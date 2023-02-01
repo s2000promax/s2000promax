@@ -1,6 +1,6 @@
 ### MY SOME PROJECTS:
 
-Booking: <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
+Booking (hotel reservation service. (Access: first@mail.com, second@mail.com, third@mail.com, Qwerty12345)): <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
 
 Feature-Sliced Design application: <a href="https://github.com/s2000promax/todo-fsd-layout" > Source code </a>
 
