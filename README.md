@@ -2,6 +2,8 @@
 
 Booking: <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
 
+Feature-Sliced Design application: <a href="https://github.com/s2000promax/todo-fsd-layout" > Source code </a>
+
 Node: <a href="https://node-test-1.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/node" > Source code </a> 
 
 GraphQL: <a href="https://graphql-test-2.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/GraphQL" > Source code </a> 
