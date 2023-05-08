@@ -6,17 +6,19 @@ Booking (created by React.js and Node.js) (hotel reservation service. (Access: f
 
 Feature-Sliced Design application: <a href="https://github.com/s2000promax/todo-fsd-layout" > Source code </a>
 
-Node: <a href="https://node-test-1.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/node" > Source code </a> 
+Node (created by the Node.js): <a href="https://node-test-1.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/node" > Source code </a> 
+
+Media platform (created by the Nest.js): <a href="" > Demo </a> -> <a href="https://github.com/s2000promax/media-platform" > Source code </a> 
 
 GraphQL: <a href="https://graphql-test-2.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/GraphQL" > Source code </a> 
 
 Video conferences. WebRTC: <a href="https://github.com/s2000promax/webRTC-meet" > Source code </a>
 
-Cloud sheets: <a href="https://github.com/s2000promax/cloud-sheets" > Source code </a>
+Cloud sheets (created by the pure javaScript): <a href="https://github.com/s2000promax/cloud-sheets" > Source code </a>
+
+Mortal Kombat on JS (created by the pure javaScript): <a href="https://github.com/s2000promax/MortalKombat" > Source code </a> 
 
 Hangouts app: <a href="https://github.com/s2000promax/hangout" > Source code </a>
-
-Mortal Kombat on JS: <a href="https://github.com/s2000promax/MortalKombat" > Source code </a> 
 
 ---
 
