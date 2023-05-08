@@ -1,6 +1,8 @@
 ### MY SOME PROJECTS:
 
-Booking (hotel reservation service. (Access: first@mail.com, second@mail.com, third@mail.com, Qwerty12345)): <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
+American roulette (created by the Babylon.js): <a href="https://cheery-rabanadas-8b5897.netlify.app" > Demo </a> -> <a href="https://github.com/s2000promax/fortunes-island" > Source code </a> 
+
+Booking (created by React.js and Node.js) (hotel reservation service. (Access: first@mail.com, second@mail.com, third@mail.com, Qwerty12345)): <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
 
 Feature-Sliced Design application: <a href="https://github.com/s2000promax/todo-fsd-layout" > Source code </a>
 
@@ -15,14 +17,6 @@ Cloud sheets: <a href="https://github.com/s2000promax/cloud-sheets" > Source cod
 Hangouts app: <a href="https://github.com/s2000promax/hangout" > Source code </a>
 
 Mortal Kombat on JS: <a href="https://github.com/s2000promax/MortalKombat" > Source code </a> 
-
-Slider: <a href="https://s2000promax.github.io/slider-project/" > Demo </a> -> <a href="https://github.com/s2000promax/slider-project" > Source code </a> 
-
-Quiz: <a href="https://github.com/s2000promax/react-quiz" > Source code </a>
-
-Social net: <a href="https://github.com/s2000promax/SocialNet" > Source code </a>
-
-Example of my code (repository will be updated): <a href="https://github.com/s2000promax/UI" > Source code </a>
 
 ---
 
@@ -45,6 +39,7 @@ Example of my code (repository will be updated): <a href="https://github.com/s20
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
+![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![material_ui](https://img.shields.io/badge/material_ui-111111?style=for-the-badge&logo=Material-UI)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
