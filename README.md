@@ -6,6 +6,8 @@ Booking (created by React.js and Node.js) (hotel reservation service. (Access: f
 
 Feature-Sliced Design application: <a href="https://github.com/s2000promax/todo-fsd-layout" > Source code </a>
 
+Customs eslint plugin (relative path checker): <a href="https://github.com/s2000promax/eslint-plugin-s2000promax-plugin" > Source code </a>
+
 Node (created by the Node.js): <a href="https://node-test-1.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/node" > Source code </a> 
 
 Media platform (created by the Nest.js): <a href="https://github.com/s2000promax/media-platform" > Source code </a> 
