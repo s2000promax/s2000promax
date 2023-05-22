@@ -14,7 +14,7 @@ Media platform (created by the Nest.js): <a href="https://github.com/s2000promax
 
 GraphQL: <a href="https://graphql-test-2.herokuapp.com/" > Demo </a> -> <a href="https://github.com/s2000promax/GraphQL" > Source code </a> 
 
-Responsive layout (React + typeScript): <a href="" > Demo </a> -> <a href="https://github.com/s2000promax/spa-layout-for-coalition-technologies" > Source code </a> 
+Responsive layout (React + typeScript): <a href="https://main--quiet-mandazi-53d51f.netlify.app/" > Demo </a> -> <a href="https://github.com/s2000promax/spa-layout-for-coalition-technologies" > Source code </a> 
 
 Video conferences. WebRTC: <a href="https://github.com/s2000promax/webRTC-meet" > Source code </a>
 
