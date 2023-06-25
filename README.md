@@ -1,5 +1,7 @@
 ### MY SOME PROJECTS:
 
+Code Projects Portal - News portal (created by the React.js + typeScript + redux): <a href="" > Demo </a> -> <a href="https://github.com/s2000promax/code-project-portal" > Source code </a> 
+
 American Roulette (created by the Babylon.js and React.js + typeScript + redux): <a href="https://cheery-rabanadas-8b5897.netlify.app" > Demo </a> -> <a href="https://github.com/s2000promax/fortunes-island" > Source code </a> 
 
 Booking (created by React.js and Node.js) (hotel reservation service. (Access: first@mail.com, second@mail.com, third@mail.com, Qwerty12345)): <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
