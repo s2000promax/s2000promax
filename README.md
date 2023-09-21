@@ -1,6 +1,6 @@
 ### MY SOME PROJECTS:
 
-Code Projects Portal - News portal (created by the React.js + typeScript + redux): <a href="" > Demo </a> -> <a href="https://github.com/s2000promax/code-project-portal" > Source code </a> 
+Reviews Portal - News portal (created by the React.js + typeScript + redux + Nest.js + mySQL): <a href="https://itransition-webportal.netlify.app/" > Demo </a> -> <a href="https://github.com/s2000promax/itransition-web-portal" > Source code </a> 
 
 American Roulette (created by the Babylon.js and React.js + typeScript + redux): <a href="https://cheery-rabanadas-8b5897.netlify.app" > Demo </a> -> <a href="https://github.com/s2000promax/fortunes-island" > Source code </a> 
 
