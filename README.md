@@ -8,7 +8,7 @@ Game HUB (created by Angular.js + Nest.js + socket.io) - Multiplayer games : <a 
 
 Booking (created by React.js and Node.js) (hotel reservation service. (Access: first@mail.com, second@mail.com, third@mail.com, Qwerty12345)): <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/booking" > Source code </a> 
 
-Admin Dashboard (created by the Angular.js + Nest.js + PostgreSQL): <a href="https://github.com/s2000promax/itransition-webapp" > Source code </a>
+Admin Dashboard (created by the Angular.js + Nest.js + PostgreSQL):<a href="https://itransition-4.netlify.app" > Demo </a> -> <a href="https://github.com/s2000promax/itransition-webapp" > Source code </a>
 
 Feature-Sliced Design application: <a href="https://github.com/s2000promax/todo-fsd-layout" > Source code </a>
 
