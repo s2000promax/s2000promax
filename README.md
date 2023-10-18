@@ -2,9 +2,9 @@
 
 Reviews Portal - News portal (created by the React.js + typeScript + redux + Nest.js + mySQL): <a href="https://itransition-webportal.netlify.app/" > Demo </a> -> <a href="https://github.com/s2000promax/itransition-web-portal" > Source code </a> 
 
-American Roulette (created by the Babylon.js and React.js + typeScript + redux): <a href="https://cheery-rabanadas-8b5897.netlify.app" > Demo </a> -> <a href="https://github.com/s2000promax/fortunes-island" > Source code </a> 
+CRM - Warehouse management. Sales (created by Angular.js + PrimeNG + Nest.js + PostgreSQL + Docker): <a href="#" > Demo </a> -> <a href="https://github.com/s2000promax" > Source code #NDA </a> 
 
-CRM - Warehouse management. Sales (created by Angular.js + PrimeNG + Nest.js + PostgreSQL + Docker): <a href="#" > Demo </a> -> <a href="https://github.com/s2000promax" > Source code (NDA) </a> 
+American Roulette (created by the Babylon.js and React.js + typeScript + redux): <a href="https://cheery-rabanadas-8b5897.netlify.app" > Demo </a> -> <a href="https://github.com/s2000promax/fortunes-island" > Source code </a> 
 
 Game HUB (created by Angular.js + Nest.js + socket.io) - Multiplayer games : <a href="http://95.111.247.254/" > Demo </a> -> <a href="https://github.com/s2000promax/itransition-multigame-platform" > Source code </a> 
 
